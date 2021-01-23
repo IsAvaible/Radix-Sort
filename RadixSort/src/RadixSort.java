@@ -10,7 +10,7 @@ import java.util.Arrays;
  *     <li>Parameters:</li>
  * <ol>
  *     <li>array (int[] / char[] / String)</li>
- *     <li>maxLen (bool) : only when type(array) == int[]</li>
+ *     <li>maxLen (int) : only when type(array) == int[]</li>
  *     <li>executionTime (bool) : prints the execution Time</li>
  * </ol>
  * <li> Example: RadixSort.sort(new int[]{32, 12, 123}, 3)</li>
