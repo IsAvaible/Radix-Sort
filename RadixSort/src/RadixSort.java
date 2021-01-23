@@ -2,7 +2,7 @@ import java.util.Arrays;
 
 /**
  * This Class is used to sort Arrays with LSD Radix Sort and Base 10. <br>
- * It was written (in-place) and is stable.<br>
+ * It was written out-of-place and is stable.<br>
  * The method "sort" was overloaded to accept Integer Arrays, Char Arrays and Strings. <br>
  * With the second parameter maxLen the maximum length of digits per int must be specified when sorting an Integer Array.<br>
  *
